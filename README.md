@@ -1,18 +1,14 @@
 # FILMES
-FREEDDONS FILMES
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] LAÇAMENTOS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/8.jpeg</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FILMES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://archive.org/details/freeddons-icon</thumbnail>
 <externallink>https://</externallink>
-<externallink>https://</externallink>
-<externallink>https://</externallink>
-<externallink>https://</externallink>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://archive.org/details/fanart-freeddons</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
