@@ -26,6 +26,19 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES TECNOLOGIA HACKERS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<thumbnail>https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.papodecinema.com.br%2Fespeciais%2Ftop-10-hackers%2F&psig=AOvVaw3rBi3qz_cXU-1evrU2c2Y3&ust=1600405535011000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiI0rm17-sCFQAAAAAdAAAAABAK</thumbnail>
+<externallink></externallink>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
  
  
