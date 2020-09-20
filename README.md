@@ -39,6 +39,19 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES 2020  TORRENT [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<thumbnail>https://ia801500.us.archive.org/17/items/hacker-fanart/hacker%20fanart.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-2020-TORRENT/master/README.md</externallink>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
 
 
  
