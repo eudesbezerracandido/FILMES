@@ -29,7 +29,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES TECNOLOGIA HACKERS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://imgur.com/1SBdlki</thumbnail>
+<thumbnail>https://te.i.uol.com.br/album/filmes_hackers_f_021.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-TECNOLOGIA-HACKERS/master/README.md</externallink>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
