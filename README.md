@@ -16,7 +16,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES TORRENT [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWrn3TfLC3K7FRJQDcMzHOZ7dmk_ZfhyKXvQ&usqp=CAU</thumbnail>
+<thumbnail>https://ia601409.us.archive.org/33/items/diversos_202101/fanart3.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-TORRENT/master/README.md</externallink>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
@@ -42,7 +42,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES 2020  TORRENT [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://i.ytimg.com/vi/1vM9jPpc8cs/maxresdefault.jpg</thumbnail>
+<thumbnail>https://ia601409.us.archive.org/33/items/diversos_202101/fanart2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-2020-TORRENT/master/README.md</externallink>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
