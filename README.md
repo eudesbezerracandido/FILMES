@@ -56,7 +56,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES 2021 TORRENT [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <thumbnail>https://i.ytimg.com/vi/RGk6CL5SuIQ/hqdefault.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-2021/main/README.md</externallink>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
