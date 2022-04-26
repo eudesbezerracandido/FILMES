@@ -94,6 +94,20 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SUPER HÉROIS [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/uckuCWizImlsWKVRxeh9Z3pH79k.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/SUPER-H-ROIS/main/README.md</externallink>
+<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
+<info>
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    
+
+
 
  
  
