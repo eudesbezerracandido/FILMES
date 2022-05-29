@@ -73,7 +73,7 @@
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES DE TECNOLOGIA  [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <thumbnail>https://ia903402.us.archive.org/34/items/fanart_20210211/oVgENgHD_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-TECNOLOGIA-HACKERS/master/README.md</externallink>
-<fanart>https://www.themoviedb.org/movie/341390-defeating-the-hackers</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/ylezrZHKJ4yk9y0JzyJfkzJhwJk.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
