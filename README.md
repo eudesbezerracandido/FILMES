@@ -71,9 +71,9 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES DE TECNOLOGIA  [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/oVgENgHD_o.jpg</thumbnail>
+<thumbnail>https://ia903402.us.archive.org/34/items/fanart_20210211/oVgENgHD_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-TECNOLOGIA-HACKERS/master/README.md</externallink>
-<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
+<fanart>https://www.themoviedb.org/movie/341390-defeating-the-hackers</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
@@ -84,9 +84,9 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES  EVANGELICOS  [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/zpz5UCUq_o.jpg</thumbnail>
+<thumbnail>https://ia903402.us.archive.org/34/items/fanart_20210211/zpz5UCUq_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-EVANGELICOS/main/README.md</externallink>
-<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
@@ -97,9 +97,9 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SUPER HÉROIS [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/uckuCWizImlsWKVRxeh9Z3pH79k.jpg</thumbnail>
+<thumbnail>https://archive.org/download/uckuCWizImlsWKVRxeh9Z3pH79k/uckuCWizImlsWKVRxeh9Z3pH79k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SUPER-H-ROIS/main/README.md</externallink>
-<fanart>https://ia601503.us.archive.org/9/items/super_202204/dc75family-paint-by-george-perez-without-shine.jpg</fanart>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
