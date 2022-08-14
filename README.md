@@ -46,7 +46,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES  NACIONAIS [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <thumbnail>https://ia903402.us.archive.org/34/items/fanart_20210211/k3r3vbnT_o.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-TORRENT-NACIONAIS/master/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/NACIONAIS-DIVERSOS/main/README.md</externallink>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
