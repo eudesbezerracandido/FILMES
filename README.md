@@ -31,33 +31,6 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES  2021/ 2 [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/M2UDgZYd_o.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/LAN-AMENTOS-2021-2/main/README.md</externallink>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
-<info>
-[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES  2021/ 3 [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/M2UDgZYd_o.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/LAN-AMENTOS-2021-3/main/README.md</externallink>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
-<info>
-[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES 2020  [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/qEQ0AL7Q_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-2020-TORRENT/master/README.md</externallink>
