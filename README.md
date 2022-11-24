@@ -108,7 +108,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ADULTO 18 + [/COLOR][B][COLOR white] 18+ [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <thumbnail>https://ia904708.us.archive.org/7/items/18_20221124_20221124_1331/cbcbc.PNG</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/-18-UPDATE/main/README.md</externallink>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
