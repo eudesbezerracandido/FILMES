@@ -104,6 +104,18 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ADULTO  18+ [/COLOR][B][COLOR white] PROIBIDO PARA MENORES [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/uLXMjYSy8AmAQkBi2hvBbsOY3GN.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 
 
