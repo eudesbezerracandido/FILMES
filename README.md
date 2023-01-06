@@ -6,7 +6,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] CATEGORIAS EM  LANÇAMENTOS 2023  [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <thumbnail>https://ia904709.us.archive.org/30/items/2023_20230103_202301/2023.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/2023-FILMES-UPDATE/main/README.md</externallink>
+<externallink></externallink>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
