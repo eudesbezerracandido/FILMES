@@ -120,8 +120,8 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ESPECIAL DRÁCULA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DR-CULA-UPDATE/main/README.md</externallink>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DRÁCULA VS LOBISOMEM [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DR-CULA-VS-LOBISOMEM/main/README.md</externallink>
 <thumbnail>https://ia600507.us.archive.org/18/items/dracula_20230828/capa_baixa.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>Esqueça os vampiros românticos e que brilham na luz do dia, essa coleção traz os vampiros como eles são de verdade, predadores noturnos e estão entre nós desde o princípio dos tempos: são dominadores, caóticos, monstruosos, sedutores, caçadores, inescrupulosos, bisbilhoteiros e únicos. Para conhecê-los, folheie as páginas deste tomo.
