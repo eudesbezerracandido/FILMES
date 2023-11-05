@@ -17,7 +17,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES  2022  [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia904604.us.archive.org/30/items/2022_20211231_202112/2022.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/d1e73133.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-TORRENT-2022/main/README.md</externallink>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info>
