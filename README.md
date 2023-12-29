@@ -6,7 +6,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  CATEGORIAS   [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia601203.us.archive.org/2/items/filmes-2023/FILMES%202023.jpg</thumbnail>
+<thumbnail>https://ia601300.us.archive.org/34/items/categorias_202312/CATEGORIAS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA-UPDATE-2023/main/README.md</externallink>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
