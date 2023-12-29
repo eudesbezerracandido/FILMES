@@ -19,7 +19,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES 2023 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/LAN-AMENTOS-2023/main/README.md</externallink>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/20775a44.jpg</thumbnail>
+<thumbnail>https://ia801203.us.archive.org/2/items/filmes-2023/FILMES%202023.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
