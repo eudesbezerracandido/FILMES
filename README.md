@@ -8,7 +8,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES LANÇAMENTOS 2024 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-UPDATE-2024/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info></info>
@@ -20,7 +20,7 @@
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES 2023  [/COLOR][B][COLOR white] FILMES TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/20775a44.jpg</thumbnail>
+<thumbnail>https://ia601203.us.archive.org/2/items/filmes-2023/FILMES%202023.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA-UPDATE-2023/main/README.md</externallink>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
