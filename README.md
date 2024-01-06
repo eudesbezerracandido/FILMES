@@ -31,7 +31,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES LANÇAMENTOS 2024 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-UPDATE-2024/main/README.md</externallink>
-<thumbnail>https://ia801202.us.archive.org/9/items/filmes-2024/FILMES%202024.jpg</thumbnail>
+<thumbnail>https://ia801206.us.archive.org/15/items/filmes-2024_202401/FILMES%202024.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info></info>
 </channel>
