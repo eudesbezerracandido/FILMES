@@ -29,7 +29,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES LANÇAMENTOS 2024 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES  2024 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-UPDATE-2024/main/README.md</externallink>
 <thumbnail>https://ia801206.us.archive.org/15/items/filmes-2024_202401/FILMES%202024.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -155,6 +155,19 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DUBLADO NÃO OFICIAL [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DUBLADO-N-O-OFICIAL/main/README.md</externallink>
+<thumbnail></thumbnail>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
 
 
 
