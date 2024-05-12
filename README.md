@@ -160,7 +160,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DUBLADO NÃO OFICIAL [/COLOR][B][COLOR white] [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DUBLADO-N-O-OFICIAL/main/README.md</externallink>
-<thumbnail>https://archive.org/details/dublado-na-o-oficial</thumbnail>
+<thumbnail>https://ia804600.us.archive.org/13/items/nao-oficial_202405/FGFGFGFHGHJYJUYY.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
